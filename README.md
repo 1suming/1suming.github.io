@@ -1,3 +1,7 @@
+---
+created: 2024-09-11 16:53
+updated: 2024-09-11 19:01
+---
 # Chirpy Starter
 
 [![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
